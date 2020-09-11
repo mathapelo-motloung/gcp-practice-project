@@ -1,8 +1,6 @@
-# gcp-practice-project
+# Google Cloud Practice Project
 
-Google Cloud Practice Project
-
-Description
+#### Description
 
 During Learning Phase 2 participants in the Cloud track of the GADS 2020 program 
 shall be encouraged to explore the possibilitiesand opportunities to work with the 
